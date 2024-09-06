@@ -1,11 +1,8 @@
 package br.sesi.hmd.poo.cabeca;
 
 public class Cabeca {
-    Olho zoio;
-    //Orelha
-    Orelha olherao;
-    //Nariz
-    Nariz nariz;
-    //Boca
-    Boca boca;
+    public Olho olho;
+    public Orelha olherao;
+    public Nariz nariz;
+    public Boca boca;
 }
