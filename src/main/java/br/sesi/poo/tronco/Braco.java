@@ -1,4 +1,4 @@
-package br.sesi.hmd.poo.tronco;
+package br.sesi.poo.tronco;
 
 public class Braco {
     int qtdeDedosMao;

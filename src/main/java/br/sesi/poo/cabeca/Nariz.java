@@ -1,4 +1,4 @@
-package br.sesi.hmd.poo.cabeca;
+package br.sesi.poo.cabeca;
 
 public class Nariz {
     float tamanhoNariz;
